@@ -9,6 +9,10 @@ url: "/portfolio-template"
 twitter_username: mlhacks
 github_username:  mlh-fellowship
 cover: "./assets/img/social-link.jpg" 
+# Changes the color of your tab in Chrome Mobile, iOS, and a few other browsers.
+# Set to a color name or a hex code (in quotes) to change it.
+# Set to ~ or make it blank to remove it.
+tab_color: "#1C539F"
 
 sass:
   sass_dir: _sass
